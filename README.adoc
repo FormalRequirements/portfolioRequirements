@@ -1,4 +1,4 @@
-= Template for requirements 
+= BUT Portfolio 
 //------------------------- configuration
 :icons: font
 :toc:
@@ -49,8 +49,13 @@ The new French diploma, BUT (Bachelor Universitaire de Technologie) includes the
 
 Here is a translation of the link:{myfiles}/pn2021.pdf[original specification] (C.1.6, p.15), also illustrated in the <<original,following figure>>:
 
-...
-...
+.....
+Sometimes referred to as the skills portfolio or professional passport, the portfolio is a connection point between academia and the socio-economic world. It responds to all the dimensions of the professionalization of a BUT student: from training to becoming a professional.
+The portfolio, therefore, supports the development of skills and the individualization of the training courses. More specifically, the portfolio allows the student to initiate a demonstration, progression, evaluation, and enhancement of the skills that she acquires throughout her course.
+Whatever the form, tool, or medium, the portfolio's objective is to enable it to adopt a reflective and critical posture vis-à-vis the skills acquired or in the process of being acquired. Within the portfolio, his development trajectory is documented and argued by mobilizing and analyzing traces. It also provides evidence from all of his professional skills.
+The portfolio approach is a continuous self-assessment process that requires support from all members of the teaching team. These guide the understanding of the elements of the skills framework, its appropriation methods, the corresponding scenarios, and the evaluation criteria.
+The portfolio approach fundamentally responds to skills assessment issues.
+.....
 
 .Original (French) specification of the Portfolio usage
 image::resources/demarche.png[]
