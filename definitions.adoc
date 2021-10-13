@@ -3,9 +3,9 @@
 // :companionURL: https://formalrequirements.github.io/requirements-handbook-companion
 // :HandbookPDF: http://se.ethz.ch/~meyer/down/requirements_handbook/REQUIREMENTS.pdf
 
-:github-repo: git@github.com:FormalRequirements/SmartHome.git
-:github-io: https://FormalRequirements.github.io/SmartHome
-
+:github-repo: https://github.com/FormalRequirements/portfolioRequirements
+:github-io: https://FormalRequirements.github.io/portfolioRequirements
+:myfiles: {github-repo}/blob/master/resources
 
 // ICONS
 :check: icon:check-circle[]
@@ -33,3 +33,5 @@ endif::[]
 // Requirements
 :xyz: <<e1-xyz,XYZ>>
 :system: {xyz}
+
+

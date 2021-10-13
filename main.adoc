@@ -1,4 +1,4 @@
-:title: SmartHome Requirements
+:title: portfolioRequirements Requirements
 :project: Project
 :version: 1.2
 :author: J.-M. Bruel

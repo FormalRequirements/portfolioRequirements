@@ -1,13 +1,13 @@
 = Template for requirements 
 //------------------------- configuration
-:imagesdir: images
 :icons: font
 :toc:
 :numbered:
 :favicon: images/pegs.png
 
-:github-repo: git@github.com:FormalRequirements/SmartHome.git
-:github-io: https://FormalRequirements.github.io/SmartHome
+:github-repo: https://github.com/FormalRequirements/portfolioRequirements
+:github-io: https://FormalRequirements.github.io/portfolioRequirements
+:myfiles: {github-repo}/blob/master/resources
 
 :hb-pdf: http://se.ethz.ch/~meyer/down/requirements_handbook/REQUIREMENTS.pdf
 :hb-title: Handbook of requirements and business analysis
@@ -42,3 +42,15 @@ The requirements book can be found in several forms:
 - The requirements themselves in plain text (link:main.adoc[])
 - The corresponding PDF generated version (link:main.pdf[])
 - The corresponding HTML generated version ({github-io})
+
+== What is a portfolio?
+
+The new French diploma, BUT (Bachelor Universitaire de Technologie) includes the important notion of Portfolio.
+
+Here is a translation of the link:{myfiles}/pn2021.pdf[original specification] (C.1.6, p.15), also illustrated in the <<original,following figure>>:
+
+...
+...
+
+.Original (French) specification of the Portfolio usage
+image::resources/demarche.png[]
