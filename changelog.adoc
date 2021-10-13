@@ -5,7 +5,7 @@
 |===
 | Version | Date | Comment 
 //----------------------------------------------
-| 1.0           | 2021-10-06 | Initial draft by {jmb}
+| 1.0           | 2021-10-13 | Initial draft by {jmb}
 | _{version}_   | _{localdate}_ | _Current PDF version, by {jmb}_
 |=== 
 //----------------------------------------------

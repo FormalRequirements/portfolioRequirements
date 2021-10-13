@@ -27,8 +27,8 @@ include::definitions.adoc[]
 [NOTE]
 ====
 This repository constitutes the requirements of the link:resources/pn2021.pdf[BUT Portfolio] (C.1.6, p.15).
-It follows the method presented in the {HandbookPDF}[Handbook of requirements and business analysis].
-It uses the Asciidoc template available {companionGit}/blob/issue-14-Write_an_Asciidoc_template_for_PEGS/templates/asciidoc/book.adoc[here].
+It follows the method presented in the {hb-title}.
+It uses the Asciidoc template available {companionGit}[here].
 ====
 
 include::changelog.adoc[]

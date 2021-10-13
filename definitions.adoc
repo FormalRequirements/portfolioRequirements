@@ -3,9 +3,12 @@
 // :companionURL: https://formalrequirements.github.io/requirements-handbook-companion
 // :HandbookPDF: http://se.ethz.ch/~meyer/down/requirements_handbook/REQUIREMENTS.pdf
 
+:companionGit: https://formalrequirements.github.io/requirements-handbook-companion/
 :github-repo: https://github.com/FormalRequirements/portfolioRequirements
 :github-io: https://FormalRequirements.github.io/portfolioRequirements
 :myfiles: {github-repo}/blob/master/resources
+:hb-title: Handbook of requirements and business analysis
+:hb-url: http://requirements-handbook.org/
 
 // ICONS
 :check: icon:check-circle[]
