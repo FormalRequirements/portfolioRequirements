@@ -5,8 +5,6 @@ BOOKS = Goals.adoc Environment.adoc Project.adoc System.adoc changelog.adoc defi
 DOC = asciidoctor -a allow-uri-read
 #-----------------------------------------------------
 
-all: main.pdf index.html 
-
 # main.adoc: main-template.adoc $(BOOKS)
 # 	mvn asciidoc-template::build
 
@@ -29,3 +27,5 @@ deploy: index.html check
 	@echo "========================================"
 	@echo "==> Deploy updates "
 	git commit -am "🤖 DEPLOY: last updates"; git pull; git push
+
+all: main.pdf index.html 
